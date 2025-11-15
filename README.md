@@ -34,7 +34,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* Call the file as python/python3 main.py <path to test csv>
+* Call the file as python/python3 main.py (path to test csv)
   
 ---
 
