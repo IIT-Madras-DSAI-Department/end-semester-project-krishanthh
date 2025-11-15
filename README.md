@@ -18,7 +18,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+* The pdf contains the report of my observations, main.py contains the testing code, and the algorithm.py contains all algorithms I tried to implement over the course of the project.
 
 ---
 
