@@ -24,7 +24,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
+* Make sure to have installed numpy and pandas and sklearn metrics for f1 score output after predictions
 
 ---
 
@@ -34,7 +34,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
+* Call the file as python/python3 main.py <path to test csv>
   
 ---
 
@@ -44,7 +44,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Krishanthh Mohan, DA24B044>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
